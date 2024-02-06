@@ -1,7 +1,7 @@
 # Hi! 👋🏻 I'm Sophia.
 Thanks for checking out my GitHub profile!
 
-I'm a trainee developer, currently learning with [The Developer Academy](https://thedeveloperacademy.com/).
+I'm a full-stack developer, currently learning with [The Developer Academy](https://thedeveloperacademy.com/).
 
 I'm looking for entry-level full-stack software development roles, to build on my existing skills and hopefully gain plenty of new ones.
 I'm also looking for any opportunity to learn & grow my skillset, so very open to junior-friendly collaborations!
