@@ -25,6 +25,7 @@ ___
 - 🐾 [Mudlark](https://phianova.github.io/mudlark/) - Vanilla HTML/CSS and JavaScript game. The first thing I ever built!
 
 ### Collaborations
+- 🌎 [WanderLog](https://wanderlogfront.vercel.app/) - NextJS/React app with Express and MongoDB. Group project as part of bootcamp (I was scrum master). Travel diary and social media app using Google Maps API.
 - 🏴‍☠️ [Ahoy](https://ahoy-peach.vercel.app/) - NextJS/React frontend - group project built as part of bootcamp. Imagine a social media app for pirates!
 
 Watch this space! I'll be building a lot over the next few months as I learn more.
@@ -39,20 +40,19 @@ Proficient in:
 - Git/GitHub
 - Stata
 - SQL
-- Node
-
-Learning:
+- NodeJS
 - React & NextJS
 - MongoDB & Mongoose
 - Express
+
+Learning:
+- TypeScript
 - Python
 
 Some knowledge of:
-- TypeScript
 - R
 - AWS
 - Tableau
-
 
 
 ## Interests & experience
