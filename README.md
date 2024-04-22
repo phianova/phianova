@@ -1,7 +1,7 @@
 # Hi! 👋🏻 I'm Sophia.
 Thanks for checking out my GitHub profile!
 
-I'm a full-stack developer, currently learning with [The Developer Academy](https://thedeveloperacademy.com/).
+I'm a full-stack developer, having just completed a bootcamp with [The Developer Academy](https://thedeveloperacademy.com/).
 
 I'm looking for entry-level full-stack software development roles, to build on my existing skills and hopefully gain plenty of new ones.
 I'm also looking for any opportunity to learn & grow my skillset, so very open to junior-friendly collaborations!
@@ -19,16 +19,15 @@ ___
 ## Projects
 
 - 🌟 [Stargazer](https://stargazer-puce.vercel.app/) - NextJS/React app using [OpenWeather API](https://openweathermap.org/api) to display weather conditions for stargazing anywhere in the world.
+- 🎓 [NJF](https://phianova.github.io/njf) - NextJS online CV/portfolio for an academic researcher.
 - 🐉 [DND Personality Quiz](https://phianova.github.io/dnd-quiz/) - JavaScript quiz, built while learning JavaScript & HTML/CSS.
 - 🍹 [Escape](https://phianova.github.io/adventure-game-assignment/) - JavaScript text-based adventure, built to learn Object-Oriented Programming.
 - 🪶 [NZ Birds](https://phianova.github.io/nz-birds/) - HTML & Tailwind CSS frontend, built as part of my learning to understand responsive web design principles.
 - 🐾 [Mudlark](https://phianova.github.io/mudlark/) - Vanilla HTML/CSS and JavaScript game. The first thing I ever built!
 
 ### Collaborations
-- 🌎 [WanderLog](https://wanderlogfront.vercel.app/) - NextJS/React app with Express and MongoDB. Group project as part of bootcamp (I was scrum master). Travel diary and social media app using Google Maps API.
-- 🏴‍☠️ [Ahoy](https://ahoy-peach.vercel.app/) - NextJS/React frontend - group project built as part of bootcamp. Imagine a social media app for pirates!
-
-Watch this space! I'll be building a lot over the next few months as I learn more.
+- 🫖 [KettleOn](https://kettle-on.vercel.app/) - NextJS full stack app using tRPC and Kinde auth. Team-building app for remote workers.
+- 🌎 [WanderLog](https://wanderlogfront.vercel.app/) - NextJS/React app with Express and MongoDB. Travel diary and social media app using Google Maps API.
 
 ___
 
