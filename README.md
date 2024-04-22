@@ -6,7 +6,7 @@ I'm a full-stack developer, having just completed a bootcamp with [The Developer
 I'm looking for entry-level full-stack software development roles, to build on my existing skills and hopefully gain plenty of new ones.
 I'm also looking for any opportunity to learn & grow my skillset, so very open to junior-friendly collaborations!
 
-**Check out my portfolio [here](https://phianova.github.io/portfolio).**
+**Check out my portfolio [here](https://phianova.github.io/portfolio) or get in touch with me via email at sophia.m.warren@gmail.com.**
 
 You can also find me here:
 
