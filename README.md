@@ -3,6 +3,8 @@ Thanks for checking out my GitHub profile!
 
 I'm a full-stack developer, having just completed a bootcamp with [The Developer Academy](https://thedeveloperacademy.com/).
 
+So far, I use mostly the MERN stack with NextJS, but I'm keen to learn more, especially new backend tools, Python, and new JS frameworks.
+
 I'm looking for entry-level full-stack software development roles, to build on my existing skills and hopefully gain plenty of new ones.
 I'm also looking for any opportunity to learn & grow my skillset, so very open to junior-friendly collaborations!
 
