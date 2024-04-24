@@ -20,16 +20,17 @@ ___
 
 ## Projects
 
-- 🌟 [Stargazer](https://stargazer-puce.vercel.app/) - NextJS/React app using [OpenWeather API](https://openweathermap.org/api) to display weather conditions for stargazing anywhere in the world.
+### Collaborations
+- 🫖 [KettleOn](https://kettle-on.vercel.app/) - NextJS full stack app using tRPC and Kinde auth. Team-building app for remote workers.
+- 🌎 [WanderLog](https://wanderlogfront.vercel.app/) - NextJS/React app with Express and MongoDB. Travel diary and social media app using Google Maps API.
+
+### Solo projects
 - 🎓 [NJF](https://phianova.github.io/njf) - NextJS online CV/portfolio for an academic researcher.
+- 🌟 [Stargazer](https://stargazer-puce.vercel.app/) - NextJS/React app using [OpenWeather API](https://openweathermap.org/api) to display weather conditions for stargazing anywhere in the world.
 - 🐉 [DND Personality Quiz](https://phianova.github.io/dnd-quiz/) - JavaScript quiz, built while learning JavaScript & HTML/CSS.
 - 🍹 [Escape](https://phianova.github.io/adventure-game-assignment/) - JavaScript text-based adventure, built to learn Object-Oriented Programming.
 - 🪶 [NZ Birds](https://phianova.github.io/nz-birds/) - HTML & Tailwind CSS frontend, built as part of my learning to understand responsive web design principles.
 - 🐾 [Mudlark](https://phianova.github.io/mudlark/) - Vanilla HTML/CSS and JavaScript game. The first thing I ever built!
-
-### Collaborations
-- 🫖 [KettleOn](https://kettle-on.vercel.app/) - NextJS full stack app using tRPC and Kinde auth. Team-building app for remote workers.
-- 🌎 [WanderLog](https://wanderlogfront.vercel.app/) - NextJS/React app with Express and MongoDB. Travel diary and social media app using Google Maps API.
 
 ___
 
