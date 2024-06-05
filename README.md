@@ -29,8 +29,8 @@ ___
   Travel diary and social media app using Google Maps API. I was scrum master, built the backend and set up the Google Maps API connection.
 
 ### Solo projects
-- 🎓 [NJF](https://phianova.github.io/njf) - NextJS online CV/portfolio for an academic researcher.
-- 🌟 [Stargazer](https://stargazer-puce.vercel.app/) - NextJS/React app using [OpenWeather API](https://openweathermap.org/api) to display weather conditions for stargazing anywhere in the world.
+- 🎓 [NJF](https://phianova.github.io/njf) - Next.js online CV/portfolio for an academic researcher.
+- 🌟 [Stargazer](https://stargazer-puce.vercel.app/) - Next.js app using [OpenWeather API](https://openweathermap.org/api) to display weather conditions for stargazing anywhere in the world.
 
 ### "Fun" projects
 - 🐉 [DND Personality Quiz](https://phianova.github.io/dnd-quiz/) - JavaScript quiz, built while learning JavaScript & HTML/CSS.
