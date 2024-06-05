@@ -3,7 +3,7 @@ Thanks for checking out my GitHub profile!
 
 I'm a full-stack developer, having completed a bootcamp with [The Developer Academy](https://thedeveloperacademy.com/).
 
-So far, I use mostly the MERN stack with NextJS, but I'm keen to learn more, especially new backend tools, Python, and new JS frameworks.
+So far, I use mostly the MERN stack with Next.js, but I'm keen to learn more, especially new backend tools, Python, and new JS frameworks.
 
 **Check out my portfolio [here](https://phianova.github.io/portfolio) 
 or get in touch with me via email at sophia.m.warren@gmail.com.**
