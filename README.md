@@ -23,7 +23,7 @@ ___
 ## Projects
 
 ### Collaborations
-- 🫖 [KettleOn](https://kettle-on.vercel.app/) - Next.js full stack app using tRPC and Kinde auth.
+- 🫖 [KettleOn](https://kettle-on.vercel.app/) - Next.js full stack app in TypeScript using tRPC and Kinde auth.
   Team-building app for remote workers. I built the backend & set up authentication.
 - 🌎 [WanderLog](https://wanderlogfront.vercel.app/) - Next.js app with Express and MongoDB.
   Travel diary and social media app using Google Maps API. I was scrum master, built the backend and set up the Google Maps API connection.
