@@ -1,16 +1,14 @@
 # Hi! 👋🏻 I'm Sophia.
 Thanks for checking out my GitHub profile!
 
-I'm a full-stack developer, having completed a bootcamp with [The Developer Academy](https://thedeveloperacademy.com/).
+I'm a full-stack developer (II) for [Fat Fish Digital](https://fatfishdigital.co.uk/), a software development agency with a focus on health-tech & AI integrations.
 
-So far, I use mostly the MERN stack with Next.js, but I'm keen to learn more, especially new backend tools, Python, and new JS frameworks.
+Previously completed a bootcamp with [The Developer Academy](https://thedeveloperacademy.com/).
 
-**Check out my portfolio [here](https://phianova.github.io/portfolio) 
+So far, I use mostly Node, TypeScript, NextJS and AWS, but I'm keen to learn more, especially new backend tools, Python, and new JS frontend frameworks.
+
+**Check out my portfolio [here](https://sophiawarren.dev) 
 or get in touch with me via email at sophia.m.warren@gmail.com.**
-
-I'm looking for entry-level full-stack software development roles, to build on my existing skills and hopefully gain plenty of new ones.
-I'm also looking for any opportunity to learn & grow my skillset, so very open to junior-friendly collaborations!
-
 
 You can also find me here:
 
@@ -20,7 +18,7 @@ You can also find me here:
 
 ___
 
-## Projects
+## Personal projects
 
 ### Collaborations
 - 🫖 [KettleOn](https://kettle-on.vercel.app/) - Next.js full stack app in TypeScript using tRPC and Kinde auth.
@@ -48,11 +46,12 @@ ___
 
 Proficient in:
 - Next.js/React
-- MongoDB & Mongoose
-- HTML/CSS
-- JavaScript
 - TypeScript
 - Node.js
+- AWS
+- HTML/CSS incl. Tailwind & other UI libraries
+- JavaScript
+- MongoDB & Mongoose
 - Express
 - SQL & PostgreSQL
 - Git/GitHub
@@ -64,7 +63,6 @@ Learning:
 
 Some knowledge of:
 - R
-- AWS
 - Tableau
 
 
